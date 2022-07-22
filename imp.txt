@@ -5,4 +5,7 @@ crucial,
 essential,
 key,
 pivotal,
-seminal,
+seminal
+
+Usage of 'Important':
+The most important thing you can do when you’re in the 50 Best is enjoy it, because it’s not going to last.
